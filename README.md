@@ -2,7 +2,7 @@
 
 ---
 
-## Sample screenshots taken from the game
+## Sample screenshots taken from the Login Form
 
 <img src="screnshots/Login.png" alt="Logn - Screen" width="400"/><br>
 
